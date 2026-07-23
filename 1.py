@@ -1,0 +1,5 @@
+pl_name=input("Enter nickname->")
+coins=int(input("Enter coins->"))
+print("Player:",pl_name)
+print("Coins:",coins)
+print(type(coins))

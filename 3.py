@@ -1,0 +1,5 @@
+name=input("Enter name:")
+country=input("Enter country:")
+age=input("Enter age:")
+f_g=input("Enter favorite game:")
+print(f"\nName:{name}\nCountry:{country}\nAge:{age}\nFavorite game:{f_g}")
